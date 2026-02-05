@@ -1,0 +1,25 @@
+{
+  "name": "challenge-cypress",
+  "version": "1.0.0",
+  "description": "challenge saucedemo QA Automation SSR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianSP1/Challenge-Cypress.git"
+  },
+  "author": "Adrian Spinosi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianSP1/Challenge-Cypress/issues"
+  },
+  "homepage": "https://github.com/AdrianSP1/Challenge-Cypress#readme",
+  "dependencies": {
+    "cypress": "^15.10.0"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^4.0.2"
+  }
+}
